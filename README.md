@@ -186,7 +186,7 @@ We provide a PyHealth-compatible dataset and task class:
 from pyhealth.datasets import CheXphotoDataset
 dataset = CheXphotoDataset(root="data/chexphoto")
 ```
-- See `pyhealth/` and `examples/chexphoto_pyhealth_example.ipynb` for usage.
+- See `pyhealth/` for usage.
 
 ---
 
