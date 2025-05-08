@@ -2,7 +2,7 @@
 
 ---
 
-![LOGO](/imgXphoto Robustness Benchmark: Reproduction and Extensions
+
 
 Repository for reproducing and extending the results of  
 **"CheXphoto: 10,000+ Smartphone Photos and Synthetic Photographic Transformations of Chest X-rays for Benchmarking Deep Learning Robustness"**  
