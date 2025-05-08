@@ -2,6 +2,8 @@
 ## CS598 Final Project - Prithvi Balaji
 ---
 
+Video:
+Github Link: https://github.com/prithbalaji/CS598DLH-FInal-Project/
 
 
 Repository for reproducing and extending the results of  
