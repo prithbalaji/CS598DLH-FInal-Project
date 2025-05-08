@@ -2,7 +2,7 @@
 ## CS598 Final Project - Prithvi Balaji
 ---
 
-## Video:
+## Video: https://youtu.be/OWlBY9_C-9o
 ## Github Link: https://github.com/prithbalaji/CS598DLH-FInal-Project/
 ## PR Link: https://github.com/sunlabuiuc/PyHealth/pull/509 -> Should have Dataset, Task, Example for 3 so EC
 
